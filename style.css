@@ -1,0 +1,100 @@
+body {
+  margin: auto;
+}
+
+.bagian-atas {
+  padding: 20px 20px;
+  background-color: #696969;
+  position: fixed;
+  width: 1250px;
+  box-shadow: 0px 5px #969696;
+}
+
+.bagian-tengah {
+  background-image: url(img/tux-sketch.jpg);
+  background-size: cover;
+  height: 600px;
+}
+
+.bagian-tengah h1 {
+  padding-top: 220px;
+  font-size: 80px;
+  padding-left: 50px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.bagian-tengah p {
+  font-weight: bold;
+  font-size: 30px;
+  padding-left: 50px;
+}
+
+.bagian-mid {
+  text-align: center;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 200px;
+  margin-top: 200px;
+}
+
+.bagian-mid h4 {
+  font-size: 40px;
+}
+
+.bagian-mid p {
+  font-size: 20px;
+}
+
+.bagian-cowo {
+  background-color: #e2d4d1;
+  padding-bottom: 450px;
+  padding-top: 20px;
+}
+
+.judul-cowo {
+  text-align: center;
+  font-size: 25px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  text-align: center;
+}
+
+.column img {
+  width: auto;
+}
+
+.judul-cewe {
+  text-align: center;
+  font-size: 25px;
+}
+
+.bagian-cewe {
+  background-color: #ffe7eb;
+  padding-bottom: 450px;
+  padding-top: 20px;
+  border-bottom: 1px solid #c3c3c3;
+}
+
+.bagian-bawah img {
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.bagian-bawah p {
+  padding-left: 18px;
+}
+
+.find-us {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+
+.about {
+  width: 30%;
+  margin-left: 28px;
+}
