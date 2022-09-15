@@ -2,22 +2,53 @@ body {
   margin: auto;
 }
 
-.bagian-atas {
-  padding: 20px 20px;
-  background-color: #696969;
-  position: fixed;
-  width: 1250px;
-  box-shadow: 0px 5px #969696;
+.container {
+  margin: 150px 120px;
 }
 
+header {
+  background-color: #ffe79b;
+  padding: 5px 25px;
+  position: fixed;
+  height: 65px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0px 10px 5px #ffefbc;
+}
+
+.logo-header {
+  float: left;
+  padding: 10px 0px 10px 10px;
+}
+
+.link-atas {
+  float: right;
+
+  padding-top: 20px;
+  transition: all 0.5s;
+  margin-right: 600px;
+}
+
+.link-atas a {
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  color: #b85900;
+}
+
+.inong {
+  padding-left: 70px;
+}
 .bagian-tengah {
-  background-image: url(img/tux-sketch.jpg);
+  background-image: url(img/tux-sketch-1.jpeg);
   background-size: cover;
-  height: 600px;
+  height: 800px;
 }
 
 .bagian-tengah h1 {
-  padding-top: 220px;
+  padding-top: 260px;
   font-size: 80px;
   padding-left: 50px;
   letter-spacing: 5px;
@@ -32,10 +63,6 @@ body {
 
 .bagian-mid {
   text-align: center;
-  margin-left: 150px;
-  margin-right: 150px;
-  margin-bottom: 200px;
-  margin-top: 200px;
 }
 
 .bagian-mid h4 {
@@ -97,4 +124,7 @@ body {
 .about {
   width: 30%;
   margin-left: 28px;
+}
+.column {
+  width: 33.33%;
 }

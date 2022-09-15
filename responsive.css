@@ -1,0 +1,49 @@
+@media (max-width: 670px) {
+  .container {
+    margin: 150px 30px;
+  }
+
+  .link-atas {
+    margin-right: 40px;
+  }
+
+  .inong {
+    padding-left: 10px;
+  }
+
+  .bagian-tengah h1 {
+    font-size: 50px;
+    padding-left: 15px;
+  }
+  .bagian-tengah p {
+    font-size: 30px;
+    padding-left: 15px;
+  }
+  .bagian-tengah {
+    background-position: right;
+    color: #732335;
+  }
+  .judul-cowo {
+    font-size: 15px;
+  }
+
+  .judul-cewe {
+    font-size: 15px;
+  }
+  .about {
+    width: 50%;
+    margin-left: 5px;
+  }
+
+  .column img {
+    height: 160px;
+  }
+
+  .bagian-cowo {
+    padding-bottom: 230px;
+  }
+
+  .bagian-cewe {
+    padding-bottom: 230px;
+  }
+}
