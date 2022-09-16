@@ -36,7 +36,7 @@
   }
 
   .column img {
-    height: 100px;
+    height: 300px;
     width: 100%;
   }
   .bagian-cowo {
@@ -51,9 +51,6 @@
 @media (max-width: 1000px) {
   .link-atas {
     margin-right: 40px;
-  }
-  .column img {
-    height: 300px;
   }
 
   .bagian-mid p {
