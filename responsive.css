@@ -38,12 +38,25 @@
   .column img {
     height: 160px;
   }
-
   .bagian-cowo {
     padding-bottom: 230px;
   }
 
   .bagian-cewe {
     padding-bottom: 230px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .link-atas {
+    margin-right: 40px;
+  }
+  .column img {
+    height: 300px;
+  }
+
+  .bagian-tengah {
+    background-position: right;
+    color: #732335;
   }
 }
