@@ -36,8 +36,8 @@
   }
 
   .column img {
-    height: 80px;
-    width: 160px;
+    height: 100px;
+    width: 100%;
   }
   .bagian-cowo {
     padding-bottom: 350px;
@@ -56,6 +56,9 @@
     height: 300px;
   }
 
+  .bagian-mid p {
+    font-size: 18px;
+  }
   .bagian-tengah {
     background-position: right;
     color: #732335;
