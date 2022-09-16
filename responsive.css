@@ -36,7 +36,8 @@
   }
 
   .column img {
-    height: 160px;
+    height: 80px;
+    width: 160px;
   }
   .bagian-cowo {
     padding-bottom: 350px;
